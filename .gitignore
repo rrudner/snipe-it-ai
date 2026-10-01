@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+/.agents/
+/.codex/
+/.aws/
+/data/
+/exports/
+/backups/
+/photos/
+*.log
+__pycache__/
+.venv/
+.DS_Store
+
+/CUSTOM.md
